@@ -29,7 +29,7 @@ The project explores a few practical questions:
 
 Explore the interactive EduPro Learner Analytics dashboard:
 
-"Open EduPro – Learner Analytics Dashboard" (https://edupro-learner-analytics-26.streamlit.app/)
+[Open EduPro – Learner Analytics Dashboard] (https://edupro-learner-analytics-26.streamlit.app/)
 
 The dashboard allows users to explore learner demographics, course preferences, enrollment patterns and learner behaviour through interactive visualisations and filters.
 
