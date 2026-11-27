@@ -204,31 +204,6 @@ The dashboard includes filters for relevant learner and course attributes, and c
 - Visual Studio Code
 - GitHub
 
-## Repository structure
-
-```text
-EduPro-Learner-Analytics/
-│
-├── EduPro_Online_Platform_Master.xlsx
-├── EduPro_Learner_Analytics.ipynb
-├── EduPro_Research_Paper.pdf
-├── EduPro_Executive_Summary.pdf
-├── README.md
-│
-├── 04_Streamlit_Dashboard/
-│   ├── app.py
-│   └── requirements.txt
-│
-└── assets/
-    ├── age_wise_enrollments.png
-    ├── gender_distribution.png
-    ├── category_popularity.png
-    ├── course_level_preference.png
-    ├── course_type_enrollments.png
-    ├── age_group_level_heatmap.png
-    ├── enrollment_concentration.png
-    └── engagement_segments.png
-```
 
 ## Run the dashboard on your computer
 
@@ -270,11 +245,10 @@ The workbook should remain in the repository root and keep the filename `EduPro_
 - Learners may appear in more than one course level, so level-wise unique learner counts overlap.
 - The age bands 36–45 and Above 45 have zero enrollments in the analyzed records.
 
-## Author
+## Prepared By
 
 **Dev Rishi Mishra**  
 M.Sc. Mathematics  
-Interested in data analytics and AI/ML.
 
 ## Acknowledgement
 
