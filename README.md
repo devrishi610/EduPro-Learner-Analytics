@@ -25,7 +25,7 @@ The project explores a few practical questions:
 - Are enrollments spread evenly across learners, or are they concentrated among a smaller group?
 - How many enrollments does a learner make on average?
 
-##Live Dashboard
+## Live Dashboard
 
 Explore the interactive EduPro Learner Analytics dashboard:
 
